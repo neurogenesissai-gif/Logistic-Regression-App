@@ -29,8 +29,8 @@ streamlit run app.py
 
 ## Live Demo
 
-(Add your Replit link here)
+https://logistic-regression-model--collagewalahuti.replit.app
 
 ## Author
 
-Your Name
+BISHESH GHOSH 
